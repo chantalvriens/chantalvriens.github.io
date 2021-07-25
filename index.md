@@ -1,3 +1,6 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+---
+layout: default
+permalink: /
+---
+
+{% include landing.html %}
